@@ -6,3 +6,6 @@ seaborn
 scikit-learn
 streamlit>=1.30.0
 altair==4.2.2
+sentence-transformers
+torch
+
