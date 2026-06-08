@@ -1,0 +1,16 @@
+question,category,ideal_answer
+Tell me about yourself,HR,I am a BCA final year student with skills in Python SQL and web development.
+Why should we hire you?,HR,I am hardworking quick learner and eager to contribute to the company.
+What are your strengths?,HR,My strengths are problem solving teamwork and adaptability.
+What are your weaknesses?,HR,I sometimes focus too much on details but I am learning to manage time effectively.
+Where do you see yourself in 5 years?,HR,I see myself growing professionally and taking greater responsibilities.
+What is Python?,Technical,Python is a high level interpreted programming language.
+What are Python lists?,Technical,Lists are ordered mutable collections used to store multiple items.
+What is a dictionary in Python?,Technical,A dictionary stores key value pairs and allows fast data retrieval.
+What is OOP?,Technical,Object Oriented Programming is based on classes and objects.
+Name four pillars of OOP.,Technical,Encapsulation Inheritance Polymorphism and Abstraction.
+What is DBMS?,Technical,DBMS is software used to manage and organize databases.
+What is SQL?,Technical,SQL is a language used to manage and query relational databases.
+What is a primary key?,Technical,A primary key uniquely identifies each record in a table.
+What is normalization?,Technical,Normalization reduces redundancy and improves database design.
+What is machine learning?,Technical,Machine learning enables systems to learn patterns from data without explicit programming.
